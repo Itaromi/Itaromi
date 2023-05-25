@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youn -> Itaromi</h1>
 <h3 align="center">I am currently a Computer Science student at Lannion.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itaromi" alt="itaromi" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
