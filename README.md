@@ -46,14 +46,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itaromi&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="itaromi" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=itaromi&show_icons=true&theme=tokyonight&locale=fr" alt="itaromi" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itaromi&show_icons=true&theme=tokyonight&locale=fr" alt="itaromi" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=itaromi&theme=dark" alt="itaromi" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itaromi&theme=dark" alt="itaromi" />
 </p>
-  <br/>
+
 <h3 align="left">Support:</h3>
 <p>
 
