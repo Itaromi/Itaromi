@@ -35,6 +35,11 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
+  <!-- Ajoutez d'autres icônes de langages et d'outils ici -->
+</p>
+
+<p>
+  <br/>
 </p>
 
 <p align="center">
@@ -48,9 +53,10 @@
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=itaromi&theme=dark" alt="itaromi" />
 </p>
-
+  <br/>
 <h3 align="left">Support:</h3>
 <p>
+
   <a href="https://ko-fi.com/itaromi"> 
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itaromi" />
   </a>
