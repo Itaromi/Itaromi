@@ -14,7 +14,7 @@
 </p>
 
 <p align="center"> 
-  🤝 I’m looking for help with <a href="https://www.java.com/fr/">learning Java</a>
+  🤝 I’m looking for help with <a href="https://www.java.com/fr/">learning C++</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
