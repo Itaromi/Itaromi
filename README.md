@@ -42,7 +42,7 @@
   <br/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itaromi&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="itaromi" />
 </p>
 
