@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> 
-  👯 I’m looking to collaborate on <strong>the creation of ItaCorporation</strong>
+  👯 I’m looking to collaborate on <strong>AnyoneHere</strong>
 </p>
 
 <p align="center"> 
