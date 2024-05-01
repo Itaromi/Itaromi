@@ -3,7 +3,7 @@
 <h3 align="center">🌱 I’m currently learning <strong>C++, JavaScript, Flutter...</strong></h3>
 <h3 align="center">📫 My linkedln : https://fr.linkedin.com/in/youn-sylvestre</h3>
 <h3 align="center">🤝 I’m looking for help with <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">learning Javascript</a></h3>
-<h3 align="center"><strong>- 🎐 CEO of Anyone Here -</strong></h3>
+<h4 align="center"><strong>- 🎐 CEO of Anyone Here -</strong></h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
