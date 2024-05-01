@@ -14,7 +14,7 @@
 </p>
 
 <p align="center"> 
-  🎐 CEO of Anyone Here</strong>
+  - 🎐 CEO of Anyone Here -</strong>
 </p>
 
 <h3 align="left">Connect with me:</h3>
