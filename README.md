@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> 
-  👯 I’m looking to collaborate on <strong>AnyoneHere</strong>
+  📫 My linkedln : https://fr.linkedin.com/in/youn-sylvestre
 </p>
 
 <p align="center"> 
