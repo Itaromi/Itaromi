@@ -5,7 +5,7 @@
 <h3 align="center">🤝 I’m looking for help with <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">learning Javascript</a></h3>
 <h2 align="center"><strong>- 🎐 CEO of Anyone Here -</strong></h2>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
     <a href="https://twitter.com/itaromi1" target="_blank">
         <img align="center"
@@ -24,7 +24,7 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left">
     <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/fr/docs/Glossary/HTML5)"
         target="_blank" rel="noreferrer"><img
@@ -62,7 +62,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=itaromi&theme=dark" alt="itaromi" />
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support :</h3>
 <p>
         <a href="https://ko-fi.com/itaromi">
         <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itaromi" />
