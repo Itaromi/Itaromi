@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 <p align="center"> 
-  🔭 I’m currently working on <strong>ItaCorporation</strong>
+  🔭 I’m currently working on <strong>AnyoneHere</strong>
 </p>
 
 <p align="center"> 
