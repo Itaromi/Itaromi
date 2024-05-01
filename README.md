@@ -2,10 +2,6 @@
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 <p align="center"> 
-  🔭 I’m currently working on <strong>AnyoneHere</strong>
-</p>
-
-<p align="center"> 
   🌱 I’m currently learning <strong>C++, JavaScript, Flutter...</strong>
 </p>
 
@@ -15,6 +11,10 @@
 
 <p align="center"> 
   🤝 I’m looking for help with <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">learning Javascript</a>
+</p>
+
+<p align="center"> 
+  🎐 CEO of Anyone Here</strong>
 </p>
 
 <h3 align="left">Connect with me:</h3>
