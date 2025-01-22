@@ -11,7 +11,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Itaromi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
-### Hi all, I'm Youn 👋 <img align="right" src="https://komarev.com/ghpvc/?username=Itaromi&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Youn" />
+### Hi all, I'm Youn 👋 <img align="right" src="https://komarev.com/ghpvc/?username=Itaromi&label=Profile%20Views%20&color=7610F7&style=flat-square" alt="Youn" />
 
 <p align="center">
     <img src="/Images/ectoplasma.gif" alt="Youn Background" width="50">
